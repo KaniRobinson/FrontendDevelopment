@@ -1,0 +1,4 @@
+node_modules
+.grunt/*
+css/Core.css
+js/Core.js

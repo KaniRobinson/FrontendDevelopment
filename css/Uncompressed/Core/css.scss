@@ -1,0 +1,26 @@
+
+@import '../_Reset/css.scss';
+
+header#header{
+    width: $headerwidth;
+    height: $headerheight;
+    background-color: $black;
+    color: $white;
+
+    p{}
+}
+
+div.wrapper{
+    width: $wrapperwidth;
+    margin: 0 auto;
+}
+
+div#container{
+    width: $containerwidth;
+    height: $containerfluidheight;
+    position: relative;
+    top: $headerheight;
+    margin: 0 auto;
+
+    p{}
+}
